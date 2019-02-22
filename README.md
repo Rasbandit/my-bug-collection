@@ -3,9 +3,9 @@
 ## JavaScript
 
 <details>
-<summary> Can not read property of undefined </summary>
+<summary> <h3>Can not read property of undefined</h3> </summary>
 <ul style="list-style-type: none">
-<li style="list-style: none">
+<li style="list-style: none"></li>
   <details> <summary>The Problem</summary>
   <p>when ever we see the word `property` in JavaScript it means we are refering to an object. We are trying to access a property from somthing that is not an object and thus, does not have properties.</p>
   </details>
