@@ -3,6 +3,13 @@
 ## JavaScript
 
 <details><summary>Can not read property of undefined<summary/>
+
+  hey
+</details>
+
+
+
+
   <p> 
   <h3>The Problem</h3>
   <p>when ever we see the word `property` in JavaScript it means we are refering to an object. We are trying to access a property from somthing that is not an object and thus, does not have properties.</p>
@@ -20,5 +27,3 @@
   ```
   
   </p>
-
-</details>
